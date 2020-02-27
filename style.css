@@ -10,7 +10,22 @@ body {
   font-family: "Helvetica Neue" !important;
 }
 
-#main-nav {
+/* Navigation */
+#menu-main-navigation li a {
+  text-transform: uppercase;
+  color: #3a3a3a;
+}
+
+/* Search Form */
+#searchform input {
+  border-radius: 15px;
+  width: 130px;
+  margin-left: 70px;
+}
+
+/* Search Form Placeholder */
+#searchform input::placeholder {
+  padding-left: 10px;
 }
 
 /*

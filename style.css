@@ -16,10 +16,47 @@ body {
   color: #3a3a3a;
 }
 
+/* Banner */
+#banner {
+  /* The image used */
+  background-image: url("assets/banner.png");
+
+  /* Set a specific height */
+  height: 600px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Banner Content */
+.main {
+  width: 600px;
+}
+
+/* Banner Headline */
+.headline {
+  color: #4775b9;
+  font-weight: bold;
+}
+
+/* Read More Button */
+.read-more {
+  width: 170px;
+  border-radius: 25px;
+  padding: 0.7em 0.7em;
+  color: #ffffff;
+  background-color: #4775b9;
+}
+
 /* Search Form */
 #searchform input {
   border-radius: 15px;
-  width: 130px;
+  width: 140px;
   margin-left: 70px;
 }
 

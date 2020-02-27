@@ -31,7 +31,7 @@
                         <?php if (has_custom_logo()) : ?>
                             <?php the_custom_logo(); ?>
                         <?php else : ?>
-                            <a href="http://localhost/wordpress/" class="navbar-brand" rel="home"><img width="108" height="108" src="<?php echo get_template_directory_uri(); ?>/assets/logo.png" class="custom-logo" alt=""></a>
+                            <a href="http://localhost/wordpress/" class="navbar-brand" rel="home"><img width="128" height="128" src="<?php echo get_template_directory_uri(); ?>/assets/logo.png" class="custom-logo" alt=""></a>
                             </a>
                         <?php endif; ?>
                     <?php endif; ?>
@@ -57,3 +57,17 @@
             <?php get_search_form(); ?>
         </div>
     </nav>
+
+    <div id="banner">
+        <div class="container d-flex h-100">
+            <div class="row justify-content-center align-self-center">
+                <div class="col-md-12">
+                    <div class="main">
+                        <h2 class="headline display-4">Professional Business <br />Consulting</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum tempore in est rem voluptates laudantium sit blanditiis sint, saepe dolorem, necessitatibus recusandae ipsam consectetur suscipit delectus laboriosam repellat labore alias?</p>
+                        <button class="btn btn-primary read-more">Read More</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

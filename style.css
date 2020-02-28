@@ -11,7 +11,7 @@ body {
 }
 
 /* Navigation */
-#menu-main-navigation li a {
+#navigation-bar li a {
   text-transform: uppercase;
   color: #3a3a3a;
 }
@@ -67,7 +67,6 @@ body {
 
 /* Main Content */
 #main-content {
-  background-color: #4775b9;
   padding-top: 3em;
   padding-bottom: 3em;
 }
@@ -94,6 +93,38 @@ body {
   color: #ebeff6;
 }
 
+/* Media Objects */
+.media .media-body h5 {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.media .media-body h5, ul li {
+  color: #2c2c2c !important;
+}
+
+#services {
+  background-color: #f9f6f7;
+}
+
+/* Services */
+.card-body {
+  padding: 0 !important;
+}
+
+#star-content div .wp-block-column:nth-child(1){
+  background-color: #4775b9;
+  height: 771px;
+}
+
+#star-content .wp-block-column:nth-child(1):not(h3) {
+  color: #fafbfd;
+}
+
+#star-content .wp-block-column:nth-child(2) {
+
+}
+
 /*
 ####################################################
 M E D I A  Q U E R I E S
@@ -111,12 +142,21 @@ No media query since this is the default in Bootstrap because it is "mobile firs
 */
 
 /* Small devices (landscape phones, 544px and up) */
-@media (min-width: 544px) {
+@media (min-width: 300px) {
+  .media {
+    display: flex;
+    flex-direction: column;
+    
+  }
 }
 
 /* Medium devices (tablets, 768px and up) 
 The navbar toggle appears at this breakpoint */
 @media (min-width: 768px) {
+  .media {
+    display: flex;
+    flex-direction: row;
+  }
 }
 
 /* Large devices (desktops, 992px and up) */

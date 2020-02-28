@@ -46,7 +46,7 @@
                     'container'       => 'div',
                     'container_id'    => 'navbarCollapse',
                     'container_class' => 'collapse navbar-collapse',
-                    'menu_id'         => false,
+                    'menu_id'         => 'navigation-bar',
                     'menu_class'      => 'navbar-nav ml-auto',
                     'depth'           => 2,
                     'fallback_cb'     => 'bs4navwalker::fallback',
@@ -63,9 +63,10 @@
             <div class="row justify-content-center align-self-center">
                 <div class="col-md-12">
                     <div class="main">
-                        <h2 class="headline display-4">Professional Business <br />Consulting</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum tempore in est rem voluptates laudantium sit blanditiis sint, saepe dolorem, necessitatibus recusandae ipsam consectetur suscipit delectus laboriosam repellat labore alias?</p>
-                        <button class="btn btn-primary read-more">Read More</button>
+                    <?php $main_post = get_post( 37 ); ?>
+                        <h2 class="headline display-4"><?= $main_post->post_title; ?></h2>
+                        <p><?= $main_post->post_content; ?></p>
+                        <a href="<?= $main_post->permalink; ?>" class="btn btn-primary read-more">Read More</a>
                     </div>
                 </div>
             </div>

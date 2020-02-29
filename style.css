@@ -40,6 +40,14 @@ body {
   font-weight: bold;
 }
 
+.info-btns {
+  width: 150px;
+  background-color: #7c9dcd !important;
+  color: #dce5f2 !important;
+  border-radius: 25px;
+  padding: 0.5em 0.5em;
+}
+
 /* Read More Button */
 .read-more {
   width: 170px;
@@ -47,13 +55,6 @@ body {
   padding: 0.7em 0.7em;
   color: #ffffff;
   background-color: #4775b9;
-}
-
-/* Search Form */
-#searchform input {
-  border-radius: 15px;
-  width: 140px;
-  margin-left: 70px;
 }
 
 /* Search Form Placeholder */
@@ -95,7 +96,8 @@ body {
   font-size: 30px;
 }
 
-.media .media-body h5, ul li {
+.media .media-body h5,
+ul li {
   color: #2c2c2c !important;
 }
 
@@ -112,7 +114,7 @@ body {
   padding: 0 !important;
 }
 
-#star-content div .wp-block-column:nth-child(1){
+#star-content div .wp-block-column:nth-child(1) {
   background-color: #4775b9;
   height: 771px;
 }
@@ -121,9 +123,7 @@ body {
   color: #fafbfd;
 }
 
-#star-content .wp-block-column:nth-child(2) {
-
-}
+#star-content .wp-block-column:nth-child(2) {}
 
 /*
 ####################################################
@@ -146,7 +146,9 @@ No media query since this is the default in Bootstrap because it is "mobile firs
   .media {
     display: flex;
     flex-direction: column;
-    
+  }
+  #searchform input {
+    width: 100%;
   }
 }
 
@@ -157,20 +159,24 @@ The navbar toggle appears at this breakpoint */
     display: flex;
     flex-direction: row;
   }
+
+  /* Search Form */
+  #searchform input {
+    border-radius: 15px;
+    width: 140px;
+    margin-left: 70px;
+  }
 }
 
 /* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) {
-}
+@media (min-width: 992px) {}
 
 /* Extra large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-}
+@media (min-width: 1200px) {}
 
 /*
 ::::::::::::::::::::::::::::::::::::::::::::::::::::
 Custom media queries
 */
 
-@media (max-width: 950px) {
-}
+@media (max-width: 950px) {}

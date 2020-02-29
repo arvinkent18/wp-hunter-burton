@@ -90,7 +90,9 @@
                 </ul>
             </div>
             <?php endif; ?>
+            
             <?php get_search_form(); ?>
+           
         </div>
     </nav>
 

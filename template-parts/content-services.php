@@ -23,7 +23,7 @@
         <div class="media">
             <?php $image_src = has_post_thumbnail() ? the_post_thumbnail() : get_template_directory_uri() . '/assets/no-image.png'; ?>
             <img class="img-fluid mr-3" src="<?php echo $image_src; ?>" alt="">
-            <div class="media-body p-5">
+            <div class="media-body pl-5 pt-5 pr-5">
                 <h5 class="mt-0"><?php the_title(); ?></h5>
                 <?php the_content(); ?>
             </div>
@@ -80,7 +80,7 @@
                         src="<?php echo get_template_directory_uri(); ?>/assets/services_07.gif"
                         class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt=""> <img
                         class="img-fluid mr-3" src="" alt="">
-                    <div class="media-body p-5">
+                    <div class="media-body pl-5 pt-5 pr-5">
                         <h5 class="mt-0">Business Expansion</h5>
 
                         <div class="wp-block-columns">

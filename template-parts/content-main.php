@@ -14,5 +14,5 @@
     <p>Business mentors are key—that’s why when it comes to client selection, we’re choosy. We want to give each of you the time and guidance you deserve.  Whether you’re seeking a strategic alliance with the right partner or a special skillset or tool, call us today. Together we’ll create and refine your plan for success. We didn’t get there alone. And neither will you. </p>
 </div>
 <div class="col-md-6">
-    <img src="<?php echo get_template_directory_uri(); ?>/assets/main.png" width="759">
+    <img class="img-fluid" src="<?php echo get_template_directory_uri(); ?>/assets/main.png">
 </div>

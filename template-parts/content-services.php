@@ -8,13 +8,8 @@
 
     $services = new WP_Query( $args );
 ?>
+<div class="col-md-12">
 <?php if ( $services->have_posts() ): ?>
-
-    <div class="text-center">
-        <h2 class="display-4">Our Services</h2>
-    </div>
-
-    <br />
 
     <?php while ( $services->have_posts() ) : $services->the_post(); ?>
 
@@ -34,3 +29,4 @@
     <?php endwhile; ?>
 
 <?php endif; ?>
+</div>

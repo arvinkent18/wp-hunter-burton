@@ -40,11 +40,7 @@
     <div class="grid w-100" style="align:center">
           
             
-            
-<div class="text-center mt-5 mb-5">
-    <h2 class="display-4 mt-5 mb-5">Our Team</h2>
-</div>
-
+           
 
 
 <div class="mb-4 mt-2">

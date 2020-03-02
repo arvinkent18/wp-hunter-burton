@@ -141,9 +141,9 @@
         <div class="col-md-6">
             <img width=auto height="128" 
             src="<?php echo get_template_directory_uri(); ?>/assets/logo.png" class="custom-logo"
-                alt="" style = "margin-top:50px; margin-left: 200px;"></a>
+                alt="" style = "margin-top:50px;"></a>
                 <br>
-                <p style = "margin-left: 200px">Dara is an award-winning florist in San Diego, CA providing flowers<pan><br> for weddings and events.</span>
+                <p>Dara is an award-winning florist in San Diego, CA providing flowers<pan><br> for weddings and events.</span>
                     <span><br>We offer flower delivery all over San Diego and California.</span></p>
                     <br>
                 <p  style = "margin-left: 200px">Hunter Burton Consulting

@@ -227,6 +227,10 @@ The navbar toggle appears at this breakpoint */
   .media img {
     width: initial !important;
   }
+
+  #services .card .card-body {
+    max-height:  280px;
+  }
 }
 
 /* Large devices (desktops, 992px and up) */

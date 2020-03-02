@@ -61,6 +61,40 @@
         </div>
     </div>
 </div>    
+        <div class="mb-4 mt-2">
+  
+        <div class="media">
+                        
+            <div class="media-body pl-5 pt-5 pr-5">
+                <h5 class="mt-0"></h5>
+                
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://localhost/wordpress/wp-content/uploads/2020/03/web_03-1.gif" alt="" class="wp-image-85"></figure><div class="wp-block-media-text__content">
+<p class="has-large-font-size"> Paula&nbsp;Whitfield,&nbsp;Owner&nbsp;and&nbsp;Managing&nbsp;Partner </p>
+
+
+
+<p> Paula&nbsp;H.&nbsp;Whitfield&nbsp;has&nbsp;more&nbsp;than&nbsp;15&nbsp;years&nbsp;of&nbsp;experience&nbsp;as&nbsp;an&nbsp;operational&nbsp;leader&nbsp;in&nbsp;developing&nbsp;solutions&nbsp;for&nbsp;clients&nbsp;to&nbsp;meet&nbsp;performance&nbsp;and&nbsp;profit&nbsp;expectations&nbsp;utilizing&nbsp;varied&nbsp;business&nbsp;practices,&nbsp;technology&nbsp;and&nbsp;core&nbsp;competencies.&nbsp;Her&nbsp;areas&nbsp;of&nbsp;expertise&nbsp;are&nbsp;strategy,&nbsp;process&nbsp;improvement,&nbsp;project&nbsp;management,&nbsp;change&nbsp;management,&nbsp;and&nbsp;business&nbsp;acquisitions.&nbsp;Paula’s&nbsp;business&nbsp;acumen&nbsp;developed&nbsp;during&nbsp;her&nbsp;tenure&nbsp;in&nbsp;key&nbsp;positions&nbsp;at&nbsp;corporations&nbsp;in&nbsp;the&nbsp;automotive,&nbsp;oil&nbsp;and&nbsp;gas,&nbsp;and&nbsp;healthcare&nbsp;industries.&nbsp;She&nbsp;has&nbsp;coached&nbsp;business&nbsp;owners&nbsp;to&nbsp;improve&nbsp;performance&nbsp;and&nbsp;create&nbsp;programs&nbsp;and&nbsp;training&nbsp;to&nbsp;sustain&nbsp;and&nbsp;improve&nbsp;profitability.&nbsp;Paula’s&nbsp;has&nbsp;a&nbsp;track&nbsp;record&nbsp;of&nbsp;leading&nbsp;corporate&nbsp;project&nbsp;teams&nbsp;and&nbsp;small&nbsp;business&nbsp;innovation&nbsp;entrepreneurs&nbsp;to&nbsp;create&nbsp;solutions&nbsp;and&nbsp;problem&nbsp;solve.&nbsp;Her&nbsp;background&nbsp;over&nbsp;the&nbsp;years&nbsp;has&nbsp;allowed&nbsp;her&nbsp;to&nbsp;leverage&nbsp;finance,&nbsp;data&nbsp;analysis,&nbsp;technology&nbsp;and&nbsp;intuitive&nbsp;business&nbsp;knowledge&nbsp;as&nbsp;she&nbsp;consults&nbsp;her&nbsp;clients&nbsp;to&nbsp;successful&nbsp;outcomes.&nbsp; <br><br>Paula&nbsp;earned&nbsp;a&nbsp;Bachelor&nbsp;of&nbsp;Business&nbsp;Administration&nbsp;Degree&nbsp;with&nbsp;a&nbsp;concentration&nbsp;in&nbsp;Finance&nbsp;from&nbsp;Howard&nbsp;University.&nbsp;She&nbsp;also&nbsp;holds&nbsp;a&nbsp;Prosci&nbsp;Change&nbsp;Practitioner&nbsp;Certificate&nbsp;and&nbsp;she’s&nbsp;pursuing&nbsp;an&nbsp;MBA&nbsp;at&nbsp;Louisiana&nbsp;State&nbsp;University. </p>
+</div></div>
+            </div>
+        </div>
+    </div>
+        <div class="mb-4 mt-2">
+  
+        <div class="media">
+                        
+            <div class="media-body pl-5 pt-5 pr-5">
+                <h5 class="mt-0"></h5>
+                
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://localhost/wordpress/wp-content/uploads/2020/03/web_03-2.gif" alt="" class="wp-image-89"></figure><div class="wp-block-media-text__content">
+<p class="has-large-font-size"> Sucre&nbsp;Woodley,&nbsp;MHSA,&nbsp;Marketing&nbsp;Strategist </p>
+
+
+
+<p> Sucre&nbsp;Elizabeth&nbsp;Woodley&nbsp;is&nbsp;a&nbsp;master&nbsp;level&nbsp;marketing,&nbsp;communications,&nbsp;digital&nbsp;media&nbsp;and&nbsp;public&nbsp;relations&nbsp;strategist&nbsp;with&nbsp;more&nbsp;than&nbsp;18&nbsp;years&nbsp;of&nbsp;industry&nbsp;experience.&nbsp;&nbsp;Her&nbsp;multifaceted&nbsp;professional&nbsp;experience&nbsp;includes&nbsp;a&nbsp;10 year&nbsp;career&nbsp;as&nbsp;a&nbsp;marketing&nbsp;and&nbsp;business&nbsp;development&nbsp;leader&nbsp;at&nbsp;Henry&nbsp;Ford&nbsp;Health&nbsp;System&nbsp;in&nbsp;Detroit,&nbsp;Michigan&nbsp;and&nbsp;more&nbsp;than&nbsp;six&nbsp;years&nbsp;in&nbsp;a&nbsp;marketing&nbsp;and&nbsp;communications&nbsp;leadership&nbsp;role&nbsp;at&nbsp;Houston&nbsp;Methodist&nbsp;in&nbsp;Houston,&nbsp;Texas.&nbsp;Sucre&nbsp;has&nbsp;a&nbsp;win-win&nbsp;communication&nbsp;style.&nbsp;She&nbsp;is&nbsp;particularly&nbsp;strong&nbsp;at&nbsp;reputation&nbsp;building&nbsp;and&nbsp;developing&nbsp;winning&nbsp;narratives&nbsp;for&nbsp;organizations.&nbsp;Her&nbsp;extensive&nbsp;professional&nbsp;career&nbsp;in&nbsp;marketing,&nbsp;communications&nbsp;and&nbsp;business&nbsp;development&nbsp;is&nbsp;backed&nbsp;by&nbsp;impressive&nbsp;credentials.&nbsp; <br> Sucre&nbsp;graduated&nbsp;from&nbsp;Howard&nbsp;University&nbsp;in&nbsp;Washington,&nbsp;D.C.&nbsp;with&nbsp;a&nbsp;Bachelors&nbsp;in&nbsp;Business&nbsp;Administration.&nbsp;She&nbsp;earned&nbsp;a&nbsp;Masters&nbsp;in&nbsp;Health&nbsp;Services&nbsp;Administration&nbsp;from&nbsp;The&nbsp;University&nbsp;of&nbsp;Michigan&nbsp;in&nbsp;Ann&nbsp;Arbor,&nbsp;Michigan. </p>
+</div></div>
+            </div>
+        </div>
+    </div>
 <?php endif; ?>
             
         

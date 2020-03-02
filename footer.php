@@ -153,7 +153,7 @@
         
         <div class="col-md-6">
         <br>    
-        <div style = "margin-left: 150px;">
+        <div style = "float:right;">
         <i class="fa fa-facebook-f" style="font-size:48px;color:blue; margin-top: 50px; margin-left: 100px;"></i>
         <i class="fa fa-linkedin-square" style="font-size:48px;color:blue; margin-top: 50px; margin-left: 30px;"></i>
         <i class="fa fa-twitter" style="font-size:48px;color:blue; margin-top: 50px; margin-left: 30px;"></i>

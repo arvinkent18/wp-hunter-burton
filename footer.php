@@ -68,7 +68,7 @@
             <div class="media-body pl-5 pt-5 pr-5">
                 <h5 class="mt-0"></h5>
                 
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://localhost/wordpress/wp-content/uploads/2020/03/web_03-1.gif" alt="" class="wp-image-85"></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://localhost/wordpress-tester/wp-content/themes/wp-hunter-burton/assets/web_03.gif" alt="" class="wp-image-85"></figure><div class="wp-block-media-text__content">
 <p class="has-large-font-size"> Paula&nbsp;Whitfield,&nbsp;Owner&nbsp;and&nbsp;Managing&nbsp;Partner </p>
 
 
@@ -85,7 +85,7 @@
             <div class="media-body pl-5 pt-5 pr-5">
                 <h5 class="mt-0"></h5>
                 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://localhost/wordpress/wp-content/uploads/2020/03/web_03-2.gif" alt="" class="wp-image-89"></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://localhost/wordpress-tester/wp-content/themes/wp-hunter-burton/assets/web_03.gif" alt="" class="wp-image-89"></figure><div class="wp-block-media-text__content">
 <p class="has-large-font-size"> Sucre&nbsp;Woodley,&nbsp;MHSA,&nbsp;Marketing&nbsp;Strategist </p>
 
 

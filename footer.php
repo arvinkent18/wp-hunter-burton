@@ -104,7 +104,7 @@
 
             <div class="row justify-content-center" >
             <img src="<?php echo get_template_directory_uri();?>/assets/web_14.png" class="" alt="" 
-            style = "margin-left:0; margin-top:50px>; width: auto; height: 18vw;">
+            style = "margin-left:0; margin-top:50px; padding-bottom: 15px;>; width: auto; height: 18vw;">
     
         </div>
         <div class="row-fluid" style = "background-color:#4775b9; height: 300px;">

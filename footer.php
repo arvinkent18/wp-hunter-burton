@@ -146,7 +146,7 @@
                 <p>Dara is an award-winning florist in San Diego, CA providing flowers<pan><br> for weddings and events.</span>
                     <span><br>We offer flower delivery all over San Diego and California.</span></p>
                     <br>
-                <p  style = "margin-left: 200px">Hunter Burton Consulting
+                <p>Hunter Burton Consulting
                 <span><br>2117 Chenevert St, Houston, Texas 77003, United States</span>
                 <span><br>713.834.7540 / paula@hunterburtoninc.com</span></p>
         </div>

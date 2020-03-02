@@ -1,4 +1,4 @@
-<div class="col-md-6 p-5 my-auto" style="text-align: justify">
+<div class="col-md-6 p-5 my-auto" id="consultancy" style="">
     <h2>Our Consultancy</h2>
     <h5>Our Experience</h5>
     <p>Hunter Burton Inc. was incorporated in 1994 by Dr. Charles and Portia Hunter serving as the entity for our first business. After a combined 50 years of corporate and business ownership experience, we decided to combine our knowledge and passion for business operations, project management, and compliance to helping others optimize current operations and build strong and relevant brand.</p>

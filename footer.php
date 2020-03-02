@@ -36,7 +36,36 @@
 </div>
 
 <?php endwhile; ?>
-<? else?>
+<?php else: ?>
+    <div class="grid w-100" style="align:center">
+          
+            
+            
+<div class="text-center mt-5 mb-5">
+    <h2 class="display-4 mt-5 mb-5">Our Team</h2>
+</div>
+
+
+
+<div class="mb-4 mt-2">
+  
+        <div class="media">
+                        
+            <div class="media-body pl-5 pt-5 pr-5">
+                <h5 class="mt-0"></h5>
+                
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="http://localhost/wordpress/wp-content/uploads/2020/03/web_03.gif" alt="" class="wp-image-81"></figure><div class="wp-block-media-text__content">
+<p class="has-large-font-size"> Dr&nbsp;Charles&nbsp;Hunter,&nbsp;Founder </p>
+
+
+
+<p> Pastor&nbsp;and&nbsp;Dr.&nbsp;Hunter&nbsp;has&nbsp;worked&nbsp;in&nbsp;many&nbsp;fields&nbsp;from&nbsp;Chair&nbsp;of&nbsp;Chemistry&nbsp;Department&nbsp;at&nbsp;Hampton&nbsp;University;&nbsp;Chemical&nbsp;Engineer&nbsp;at&nbsp;Ford&nbsp;Motor;&nbsp;Ford&nbsp;Dealer&nbsp;owner;&nbsp;and&nbsp;now&nbsp;retired&nbsp;pastor&nbsp;at&nbsp;local&nbsp;church.&nbsp;He&nbsp;and&nbsp;wife,&nbsp;Portia&nbsp;established&nbsp;Hunter&nbsp;Burton&nbsp;Inc.&nbsp;as&nbsp;a&nbsp;family&nbsp;business&nbsp;in&nbsp;1994&nbsp;to&nbsp;support&nbsp;the&nbsp;family&nbsp;business&nbsp;and&nbsp;now&nbsp;to&nbsp;service&nbsp;entrepreneurs&nbsp;and&nbsp;established&nbsp;business&nbsp;owners. <br><br>Dr.&nbsp;Hunter&nbsp;earned&nbsp;a&nbsp;Ph.D&nbsp;in&nbsp;Physical&nbsp;Chemistry&nbsp;at&nbsp;Howard&nbsp;University;&nbsp;MS&nbsp;in&nbsp;Computer&nbsp;Engineering,&nbsp;Wayne&nbsp;State&nbsp;University;&nbsp;BS&nbsp;in&nbsp;Chemistry&nbsp;and&nbsp;Mathematics&nbsp;at&nbsp;Hampton&nbsp;University;&nbsp;Religious&nbsp;Studies&nbsp;at&nbsp;Houston&nbsp;Baptist&nbsp;University. </p>
+</div></div>
+            </div>
+        </div>
+    </div>
+</div>    
+<?php endif; ?>
             
         
            
@@ -117,7 +146,7 @@
     </div>
 </footer>
 <?php wp_footer(); ?>
-<?php endif; ?>
+
 </body>
 
 </html>

@@ -31,7 +31,7 @@
                     <?php if (has_custom_logo()) : ?>
                     <?php the_custom_logo(); ?>
                     <?php else : ?>
-                    <a href="http://localhost/wordpress/" class="navbar-brand" rel="home"><img width="128" height="128"
+                    <a href="http://localhost/wordpress/" class="navbar-brand" rel="home"><img 
                             src="<?php echo get_template_directory_uri(); ?>/assets/logo.png" class="custom-logo"
                             alt=""></a>
                     </a>

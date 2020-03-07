@@ -5,9 +5,9 @@
                 <h2 class="display-4">Our Team</h2>
                 <div class="media">
                     <img width="410" height="315" src="<?php echo get_template_directory_uri(); ?>/assets/web_03.gif"
-                        class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="">
-                    <div class="media-body pl-5 pt-5 pr-5">
-                        <h5 class="mt-0">Dr. Charles Hunter, Founder</h5>
+                            class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" id = "img1">
+                        <div class="media-body pl-5 pt-5 pr-5" id = "content">
+                            <h5 class="mt-1">Dr. Charles Hunter, Founder</h5>
                         Pastor and Dr. Hunter has worked in many fields from Chair of Chemistry Department at Hampton
                         University; Chemical Engineer at Ford Motor; Ford Dealer owner; and now retired pastor at local
                         church. He and wife, Portia established Hunter Burton Inc. as a family business in 1994 to
@@ -18,9 +18,8 @@
                         at Houston Baptist University.
                     </div>
                 </div>
-                <div class="media">
-                    <div class="media-body">
-                        <h5 class="mt-0 mb-1">Paula Whitfield, Owner and Managing Partner</h5>
+                <div class="media-body" id = "content">
+                        <h5 class="mt-5 mb-3">Paula Whitfield, Owner and Managing Partner</h5>
                         Paula H. Whitfield has more than 15 years of experience as an operational leader in developing
                         solutions for clients to meet performance and profit expectations utilizing varied business
                         practices, technology and core competencies. Her areas of expertise are strategy, process
@@ -35,14 +34,14 @@
                         Finance from Howard University. She also holds a Prosci Change Practitioner Certificate and
                         she’s pursuing an MBA at Louisiana State University.
                     </div>
-                    <img width="410" height="315" class="attachment-post-thumbnail size-post-thumbnail wp-post-image"
-                        class="ml-3 img-fluid" src="<?php echo get_template_directory_uri(); ?>/assets/web_03.gif"
-                        alt="Generic placeholder image">
+                   <img width="410" height="315" class="attachment-post-thumbnail size-post-thumbnail wp-post-image"
+                        class="ml-3  img-fluid" src="<?php echo get_template_directory_uri(); ?>/assets/web_03.gif"
+                        alt="Generic placeholder image" id ="img2">
                 </div>
                 <div class="media">
                     <img width="410" height="315" src="<?php echo get_template_directory_uri(); ?>/assets/web_03.gif"
-                        class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="">
-                    <div class="media-body pl-5 pt-5 pr-5">
+                         class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" id = "img3">
+                    <div class="media-body pl-5 pt-5 pr-5" id = "content">
                         <h5 class="mt-0">Sucre Woodley, MHSA, Marketing Strategist</h5>
                         Sucre Elizabeth Woodley is a master level marketing, communications, digital media and public
                         relations strategist with more than 18 years of industry experience. Her multi-faceted
@@ -59,17 +58,17 @@
             </div>
             <div class="row justify-content-center align-self-center mx-auto text-center">
                 <div class="col-md-12">
-                    <h2 class="display-4">Our Clients</h2>
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/web_14.png" class="img-fluid">
+                    <h2 class="display-4 mt-5">Our Clients</h2>
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/web_14.png" class="img-fluid mb-5">
                 </div>
             </div>
         </div>
     </div>
-    <div id="employment" style="background-color: #4775b9;">
+    <div id="employment" style="background-color: #4775b9; height: 300px; color:white;">
         <div class="container">
             <div class="row justify-content-center align-self-center mx-auto text-center">
                 <div class="col-md-12">
-                    <h2 class="display-4">Employments</h2>
+                    <h2 class="display-4  mt-5 pb-5 text-white">Employments</h2>
                     We are always looking for team members to join our consulting team as well as client positions
                     listed below. If you are looking for a unique opportunity to support our constituents, amazing
                     business owners and organization leaders please email us at info@hunterburtoninc.com.
@@ -81,7 +80,8 @@
         <div class="container">
             <div class="row justify-content-center align-self-center mx-auto text-center">
                 <div class="col-md-12">
-                    <h2 class="display-4">Contact Us</h2>
+                    <h2 class="display-4  mt-4">Contact Us</h2>
+                     Send us a message
                     <form action="#" style="text-align: center;">
 
                         <input type="text" id="fname" name="firstname" placeholder="Your name">
@@ -95,7 +95,7 @@
                         <textarea id="subject" name="subject" placeholder="Message" style="height:200px"></textarea>
                         <p style="text-align: center"><small>This site is protected by reCAPTCHA and the Google Privacy
                                 Policy and Terms of Service apply. </small></P>
-                        <input type="submit" value="Send" style="margin-bottom: 13px;">
+                        <input type="submit" value="Send" style="margin-bottom: 20px;">
                     </form>
                 </div>
             </div>
